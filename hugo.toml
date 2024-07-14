@@ -1,5 +1,0 @@
-baseURL = 'https://faustozamparelli.com/blog/'
-publishDir = 'public/blog'
-languageCode = 'en-us'
-title = "Fausto Zamparelli's Blog"
-theme = 'lugo'
