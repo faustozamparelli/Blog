@@ -7,4 +7,10 @@ theme = 'github-style'
   unsafe = true
 
 [params]
-  author = 'Fausto Zamparelli'
+  author = 'Faust'
+  github = 'faustozamparelli'
+  location = 'Rome'
+  avatar = '/images/avatar.png'
+  userStatusEmoji = '😁'
+
+
