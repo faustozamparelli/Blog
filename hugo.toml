@@ -1,4 +1,4 @@
-baseURL = 'http://faustozamparelli.com/'
+baseURL = 'https://faustozamparelli.com'
 publishDir = 'public/blog'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
