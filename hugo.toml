@@ -1,7 +1,7 @@
 baseURL = '//faustozamparelli.com/blog'
 publishDir = 'public/blog'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'faustozamparelli'
 theme = 'github-style'
 [markup.goldmark.renderer]
   unsafe = true
@@ -9,8 +9,8 @@ theme = 'github-style'
 [params]
   author = 'Faust'
   github = 'faustozamparelli'
+  avatar = 'https://avatars.githubusercontent.com/u/105665123?v=4'
   location = 'Rome'
-  avatar = '/images/avatar.png'
   userStatusEmoji = '😁'
 
 
