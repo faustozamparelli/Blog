@@ -1,0 +1,4 @@
+baseURL = 'https://faustozamparelli/blog/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'github-style'
