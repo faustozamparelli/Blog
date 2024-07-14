@@ -1,4 +1,5 @@
-baseURL = 'http://fausto.com/'
+baseURL = 'http://faustozamparelli.com/'
+publishDir = 'public/blog'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme="github-style"
