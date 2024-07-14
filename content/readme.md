@@ -51,4 +51,9 @@ positively affect as many people as I can while I am here.
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=faustozamparelli&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
 </p>
 
-
+<div align="center">
+    <h2>Good jood NEO</h2>
+    <a href="https://github.com/faustozamparelli">    
+        <img src="https://media1.tenor.com/m/Nhuni4Kqc3QAAAAC/the-matrix-has-you.gif" width="600" alt="The Matrix has you" />
+    </a>
+</div>
