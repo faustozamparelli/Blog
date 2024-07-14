@@ -1,6 +1,4 @@
 baseURL = 'https://faustozamparelli.com/'
-realtiveURLs = true
-uglyURLs = true 
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'github-style'
