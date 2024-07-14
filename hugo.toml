@@ -4,3 +4,7 @@ title = 'My New Hugo Site'
 theme = 'github-style'
 [markup.goldmark.renderer]
   unsafe = true
+
+[params]
+  author = 'Fausto Zamparelli'
+  description = 'You are no more on my Github... Wake up!'
