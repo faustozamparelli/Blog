@@ -1,4 +1,4 @@
-baseURL = 'https://faustozamparelli.com/'
+baseURL = '//faustozamparelli.com/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'github-style'
