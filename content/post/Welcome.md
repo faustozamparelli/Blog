@@ -1,14 +1,22 @@
 +++
 title = 'Welcome'
 date = 2024-07-15T00:00:00+02:00
+summary = 'Hi, my name is Fausto Zamparelli and welcome to my blog. I want to start by thanking you for being here and taking the time to read my posts. I am not a good writer at all, this is just a place where I will feel free to express what is been on my mind lately with no filters.'
 +++
+
+Before we start, in some blog posts there will be the song i mainly listened to while writing the post. Feel free to listen to it while you read if you want.
+<div style="display: flex; justify-content: center; align-items: center">
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5Z8Dj3LtbyCMiwE86rhg2f?utm_source=generator&theme=0" width="60%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+
+
+<h1>Welcome</h1>
 
 Hi, my name is Fausto Zamparelli and welcome to my blog.  
 
 I want to start by thanking you for being here and taking the time to read my posts. I am not a good writer at all, this is just a place where I will feel free to express what is been on my mind lately
 with no filters.  
 
-<!--more-->
 
 I've always been thoughtful about the meaning of ownership. Copyright is what defines ownership in the digital world.. Let's look at a definition:
 

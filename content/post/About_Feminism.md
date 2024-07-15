@@ -5,5 +5,4 @@ draft = true
 +++
 
 <h1>About Feminism</h1>
-Let's start
 
