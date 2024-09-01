@@ -7,7 +7,7 @@ theme = 'github-style'
   unsafe = true
 
 [params]
-  author = 'Faust'
+  author = 'fast'
   github = 'faustozamparelli'
   avatar = 'https://avatars.githubusercontent.com/u/105665123?v=4'
   location = 'Rome'
@@ -17,4 +17,6 @@ theme = 'github-style'
   url = 'https://www.youtube.com/watch?v=yM1ajPpGP7g'
   email = 'fausto.zamparelli@gmail.com'
 
-
+[services]
+  [services.googleAnalytics]
+    ID = 'G-MZ2X3WCL72'
