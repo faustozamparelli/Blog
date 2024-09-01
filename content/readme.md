@@ -3,6 +3,8 @@ title = 'README'
 date = 2024-07-14T18:33:37+02:00
 +++
 
+<a href="https://www.youtube.com/watch?v=RhlXqYiTz2Q">You</a> take the blue pill, the story ends, you wake up in your bed and return to my github. You take the red pill, you stay on my Blog, and I show you how deep the rabbit hole goes...
+
 <table align="center">
   <tr>
     <td><img src="https://github.com/user-attachments/assets/62740fe2-e96f-449b-ba79-b832320411f7" alt="Me" width="150" height="150"></td>
