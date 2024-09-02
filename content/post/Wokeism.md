@@ -60,7 +60,7 @@ But this is not the only fallacy, the problem is also with people believing that
 "With true equality of opportunity, we will see equality of outcome. If we don’t see equality of outcome, it is because we don’t have equality of opportunity."
 </div>
 
-This is also **very** wrong, there’s actually <a href="https://slatestarcodex.com/2017/08/07/contra-grant-on-exaggerated-differences/">evidence of the opposite</a>, at least for the gender gap in tech. 
+This is also **very** wrong, there’s actually <a href="https://slatestarcodex.com/2017/08/07/contra-grant-on-exaggerated-differences/">evidence of the opposite</a>, at least for the gender gap <a href="https://youtu.be/Dek5HtNdIHY?si=65XSSoxQv_1Must_">in tech</a>.
 **Meaning as equality of opportunity increases, observed outcomes diverge.**
 
 Another problem as I have talked about already is how oftern, after periods of oppression people tend to overcorrect behaviours and do not realize when the so-called 'desired balance' has been surpassed.
