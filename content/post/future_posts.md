@@ -9,3 +9,4 @@ draft = true
 - Niche morality
 - When will we reach the singularity?
 - The dating market today
+- Just music
