@@ -9,6 +9,7 @@ summary = 'Just quotes'
 What quotes yo? (you may ask) <br>
 Just random quotes that are stuck with me. (i may respond) <br>
 
+- <a href="https://www.youtube.com/watch?v=nGSTFtPRvFY">The world can't help but change around us</a>
 - <a href="https://www.youtube.com/watch?v=2lVxQ32UC8E">Cody's me bro. Let me be me.</a>
 - <a href="https://www.youtube.com/watch?v=2nLWPNfNMHI">Relashionships are like a rope</a>
 - <a href="https://www.youtube.com/watch?v=S2-bjGkcaJI">If you had the opportunity to play this game of life</a>
@@ -27,12 +28,11 @@ Just random quotes that are stuck with me. (i may respond) <br>
 - <a href="https://www.youtube.com/watch?v=lGMyPamuPjk">Never sell out</a>
 - <a href="https://www.youtube.com/watch?v=QFgcqB8-AxE">Democracy basically means...</a>
 - <a href="https://www.youtube.com/watch?v=DDANvbRn1A4">A person feeling are very different than skates</a>
-- <a href="https://www.youtube.com/watch?v=hAQA_29Htts">Yeah fugezi, fugazi it's wazi it's a woozy... fairy dust</a>
+- <a href="https://www.youtube.com/watch?v=hAQA_29Htts">Yeah fugezi, fugazi, it's a wazi it's a woozy... fairy dust</a>
 - <a href="https://www.youtube.com/watch?v=r_o7yjYtOag">Your entire life is a test</a>
 - <a href="https://www.youtube.com/watch?v=FoYC_8cutb0">My life philosophy</a>
 - <a href="https://youtube.com/shorts/1er9tqGeMV0?si=LB6v8yvoxHhxN_8D">Flew to paris for a hug</a>
-- <a href="https://www.youtube.com/watch?v=aVUKedL0OyI">I Am Puerto Rican</a>
 
-Why are they stuck with you tho? (you may ask) <br>
+Why are you attached to them tho? (you may ask) <br>
 I don't know yo, fuck off. You find your own meaning behind them. (i may respond) <br>
 
