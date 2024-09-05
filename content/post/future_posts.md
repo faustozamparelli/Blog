@@ -10,3 +10,4 @@ draft = true
 - When will we reach the singularity?
 - The dating market today
 - Just music
+- Public image (mark zuckerberg)
