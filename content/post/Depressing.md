@@ -2,6 +2,7 @@
 title = "Depressing"
 date = 2024-09-05T20:20:00+02:00
 summary = "Why being famous is Depressing"
+draft = true
 +++
 
 <div style="display: flex; justify-content: center; align-items: center">

@@ -30,6 +30,7 @@ Just random quotes that are stuck with me. (i may respond) <br>
 - <a href="https://www.youtube.com/watch?v=DDANvbRn1A4">A person feeling are very different than skates</a>
 - <a href="https://www.youtube.com/watch?v=hAQA_29Htts">Yeah fugezi, fugazi, it's a wazi it's a woozy... fairy dust</a>
 - <a href="https://www.youtube.com/watch?v=r_o7yjYtOag">Your entire life is a test</a>
+- <a href="https://www.youtube.com/watch?v=k0qmkQGqpM8">Idiots admire complexity</a>
 - <a href="https://www.youtube.com/watch?v=FoYC_8cutb0">My life philosophy</a>
 - <a href="https://youtube.com/shorts/1er9tqGeMV0?si=LB6v8yvoxHhxN_8D">Flew to paris for a hug</a>
 
