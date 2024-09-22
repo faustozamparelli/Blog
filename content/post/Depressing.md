@@ -72,8 +72,8 @@ The constant fear of being caught, of being cancelled for something considered i
 ## The solution:
 The only way to fix this is a mentality shift, is to understand that those people are there because of luck, because of opportunities, sure... but also
 for their obsessive behaviour, for them being assholes, <a href="https://www.youtube.com/watch?v=tgPREZkG4rI&list=PLLBxmuPY0SHlWUwAUkzsc_w1Da4YRk7hb">for them steppin on other people's shoes</a>.
-    Only after eliminating <a href="https://en.wikipedia.org/wiki/Cancel_culture">cancel culture</a>, maybe people will actually be honest with one another will stop pretending.  
+Only after eliminating <a href="https://en.wikipedia.org/wiki/Cancel_culture">cancel culture</a>, maybe people will actually be honest with one another will stop pretending.  
 Morality is not as clear as people make it seem, it is relative... success, evolution, progress is highly considered but the steps to get there are considered immoral.  
-I will dedicate a whole post about this in the future to not make things messy, but for now I advise readers of this blog just to read <a href="https://en.wikipedia.org/wiki/On_the_Genealogy_of_Morality">Friedrich Nietzsche’s "On the Genealogy of Morality"</a>
+I will dedicate a whole post about this in the future to not make things messy, but for now I advise the readers just to get into <a href="https://en.wikipedia.org/wiki/On_the_Genealogy_of_Morality">Friedrich Nietzsche’s "On the Genealogy of Morality"</a>
 and to watch the movie <a href="https://en.wikipedia.org/wiki/Nightcrawler_(film)">The Nightcrawler</a> with an open mind.
 
