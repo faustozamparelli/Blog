@@ -34,7 +34,7 @@ The word "woke", born in the <a href="https://trends.google.com/trends/explore?d
 Obviously the definition is biased because it is used by the opposite political party but the fact that people had to invent a new word to describe this social dynamic is explanatory enough.<br>
 From the BLM movement to today's date wokeism has been on the rise, with also COVID playing a role in it (where polarity was at its peak) .  
 <br>
-We can clearly see that the pendulum from days where oppressing black people and women was the norm, has swung the other way passing the middle point. From closed-mindedness to the overacceptance of the absurd.<br>
+We can clearly see that the pendulum from days where oppressing black people and women was the norm, has swung the other way passing the middle point. From closed-mindedness to the over acceptance of the absurd.<br>
 I could give many examples (and I am not even a Twitter/X user, imagine if I was...):
 - <a href="https://youtube.com/shorts/MKDwdVVtgsc?si=lXrizJZw908PFPUK">Women in Tech meetings</a> 
 - <a href="https://youtube.com/shorts/lqhsIgpTCqA?si=hp_vOCUZVKFEWwtc">No Jewish allowed in UCLA</a> 
