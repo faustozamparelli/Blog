@@ -6,9 +6,6 @@ theme = 'github-style'
 [markup.goldmark.renderer]
   unsafe = true
 
-[permalinks]
-  posts = "/posts/:slug/"
-
 [params]
   author = 'fast'
   github = 'faustozamparelli'
