@@ -1,4 +1,4 @@
-baseURL = 'https://faustozamparelli.com/blog'
+baseURL = '/blog'
 publishDir = 'docs/blog'
 languageCode = 'en-us'
 title = 'faustozamparelli'
