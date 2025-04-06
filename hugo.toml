@@ -1,5 +1,5 @@
 baseURL = 'https://faustozamparelli.com/blog'
-publishDir = 'public/blog'
+publishDir = 'docs/blog'
 languageCode = 'en-us'
 title = 'faustozamparelli'
 theme = 'github-style'
