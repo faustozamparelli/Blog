@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>faustozamparelli</title>
-    <link>https://faustozamparelli.com/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content on faustozamparelli</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Sep 2024 20:20:00 +0200</lastBuildDate>
-    <atom:link href="https://faustozamparelli.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Depressing</title>
-      <link>https://faustozamparelli.com/blog/post/depressing/</link>
+      <link>http://localhost:1313/blog/post/depressing/</link>
       <pubDate>Thu, 05 Sep 2024 20:20:00 +0200</pubDate>
-      <guid>https://faustozamparelli.com/blog/post/depressing/</guid>
+      <guid>http://localhost:1313/blog/post/depressing/</guid>
       <description>Why being famous is Depressing</description>
     </item>
     <item>
       <title>Quotes</title>
-      <link>https://faustozamparelli.com/blog/post/quotes/</link>
+      <link>http://localhost:1313/blog/post/quotes/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0200</pubDate>
-      <guid>https://faustozamparelli.com/blog/post/quotes/</guid>
+      <guid>http://localhost:1313/blog/post/quotes/</guid>
       <description>Just quotes</description>
     </item>
     <item>
       <title>Wokeism</title>
-      <link>https://faustozamparelli.com/blog/post/wokeism/</link>
+      <link>http://localhost:1313/blog/post/wokeism/</link>
       <pubDate>Sun, 01 Sep 2024 12:00:00 +0200</pubDate>
-      <guid>https://faustozamparelli.com/blog/post/wokeism/</guid>
+      <guid>http://localhost:1313/blog/post/wokeism/</guid>
       <description>Balance is self-regulating as it&amp;rsquo;s, by its own definition, what naturally recurs in a system when left undisturbed. Humans presume to be able to predict the balance point but they don&amp;rsquo;t realize that oftentimes they pass it making the history pendulum swing even harder.</description>
     </item>
     <item>
       <title>Welcome</title>
-      <link>https://faustozamparelli.com/blog/post/welcome/</link>
+      <link>http://localhost:1313/blog/post/welcome/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0200</pubDate>
-      <guid>https://faustozamparelli.com/blog/post/welcome/</guid>
+      <guid>http://localhost:1313/blog/post/welcome/</guid>
       <description>Hi, my name is Fausto Zamparelli and welcome to my blog. I want to start by thanking you for being here and taking the time to read my posts. I am not a good writer at all, this is just a place where I will feel free to express what is been on my mind lately with no filters.</description>
     </item>
     <item>
       <title>README</title>
-      <link>https://faustozamparelli.com/blog/readme/</link>
+      <link>http://localhost:1313/blog/readme/</link>
       <pubDate>Sun, 14 Jul 2024 18:33:37 +0200</pubDate>
-      <guid>https://faustozamparelli.com/blog/readme/</guid>
+      <guid>http://localhost:1313/blog/readme/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=RhlXqYiTz2Q&#34;&gt;You&lt;/a&gt; take the blue pill, the story ends, you wake up in your bed and return to my github. You take the red pill, you stay on my Blog, and I show you how deep the rabbit hole goes&amp;hellip;&lt;/p&gt;&#xA;&lt;table align=&#34;center&#34;&gt;&#xA;  &lt;tr&gt;&#xA;    &lt;td&gt;&lt;img src=&#34;https://github.com/user-attachments/assets/62740fe2-e96f-449b-ba79-b832320411f7&#34; alt=&#34;Me&#34; width=&#34;150&#34; height=&#34;150&#34;&gt;&lt;/td&gt;&#xA;    &lt;td&gt;&lt;h1 style=&#34;padding-left: 20px;&#34;&gt;Welcome to my github profile!&lt;br /&gt;I&#39;m Fausto Zamparelli 👋&lt;/h1&gt;&lt;/td&gt;&#xA;  &lt;/tr&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;about-me&#34;&gt;About me:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I am a full-stack developer located in Rome Italy, my main focus is web-developement and AI (with some background on IOS development).&lt;/li&gt;&#xA;&lt;li&gt;I am studing Applied Computer Science and Artificial Intelligence at Sapienza University but I have been passionate about technology my hole life.&lt;/li&gt;&#xA;&lt;li&gt;My life motto is: &amp;ldquo;Love what you do, Do what you love&amp;rdquo;. I aspire to leave this word a better place than I was born in, to experiences as much as possible, live in the present, be energetic and&#xA;positively affect as many people as I can while I am here.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;daily&#34;&gt;Daily:&lt;/h2&gt;&#xA;&lt;img align=&#34;left&#34; alt=&#34;Python&#34; width=&#34;50px&#34; style=&#34;padding-right:10px;&#34; src=&#34;https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg&#34; /&gt;&#xA;&lt;img align=&#34;left&#34; alt=&#34;TypeScript&#34; width=&#34;50px&#34; style=&#34;padding-right:10px;&#34; src=&#34;https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg&#34; /&gt;&#xA;&lt;img align=&#34;left&#34; alt=&#34;JavaScript&#34; width=&#34;50px&#34; style=&#34;padding-right:10px;&#34; src=&#34;https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg&#34; /&gt;&#xA;&lt;img align=&#34;left&#34; alt=&#34;CSS&#34; width=&#34;50px&#34; style=&#34;padding-right:10px;&#34; src=&#34;https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg&#34; /&gt;&#xA;&lt;img align=&#34;left&#34; alt=&#34;Html&#34; width=&#34;50px&#34; style=&#34;padding-right:10px;&#34; src=&#34;https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg&#34; /&gt;&#xA;&lt;img align=&#34;left&#34; alt=&#34;Bash&#34; width=&#34;50px&#34; style=&#34;padding-right:10px;&#34; src=&#34;https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg&#34; /&gt;&#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;h2 id=&#34;occasionally&#34;&gt;Occasionally:&lt;/h2&gt;&#xA;&lt;img align=&#34;left&#34; alt=&#34;C++&#34; width=&#34;50px&#34; style=&#34;padding-right:10px;&#34; src=&#34;https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg&#34;/&gt;&#xA;&lt;img align=&#34;left&#34; alt=&#34;Go&#34; width=&#34;50px&#34; style=&#34;padding-right:10px;&#34; src=&#34;https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg&#34; /&gt;&#xA;&lt;img align=&#34;left&#34; alt=&#34;Java&#34; width=&#34;50px&#34; style=&#34;padding-right:10px;&#34; src=&#34;https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg&#34;/&gt;&#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;h2 id=&#34;tools-up-my-sleeve&#34;&gt;Tools up my sleeve:&lt;/h2&gt;&#xA;&lt;img align=&#34;left&#34; alt=&#34;Nvim&#34; width=&#34;50px&#34; style=&#34;padding-right:10px;&#34; src=&#34;https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg&#34; /&gt;&#xA;&lt;img align=&#34;left&#34; alt=&#34;VsCode&#34; width=&#34;50px&#34; style=&#34;padding-right:10px;&#34; src=&#34;https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg&#34; /&gt;&#xA;&lt;img align=&#34;left&#34; alt=&#34;Git&#34; width=&#34;50px&#34; style=&#34;padding-right:10px;&#34; src=&#34;https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg&#34; /&gt;&#xA;&lt;img align=&#34;left&#34; alt=&#34;Github&#34; width=&#34;50px&#34; style=&#34;padding-right:10px;&#34; src=&#34;https://github.com/user-attachments/assets/c764da3e-4882-496b-956d-916913674828&#34; /&gt;&#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;h2 id=&#34;my-socials-click-on-me&#34;&gt;My socials (click on me):&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/fausto-zamparelli-183387245/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png&#34; width=&#34;50&#34; height=&#34;50&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://x.com/faustozampa&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://github.com/faustozamparelli/faustozamparelli/assets/105665123/aa4401a5-f3cd-4b9b-9acd-36f53d669cc4&#34; width=&#34;50&#34; height=&#34;50&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.instagram.com/faustozamparelli/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg&#34; width=&#34;50&#34; height=&#34;50&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://open.spotify.com/user/fausto.zamparelli-it?si=de62022e8a874874&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://github.com/faustozamparelli/faustozamparelli/assets/105665123/38f8d145-eb19-4da1-bd50-8dde119bb1f1&#34; width=&#34;50&#34; height=&#34;50&#34;&gt;&lt;/a&gt;&#xA;&lt;br&gt;&lt;br&gt;&lt;/p&gt;</description>
     </item>
   </channel>
