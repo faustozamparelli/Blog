@@ -1,4 +1,4 @@
-baseURL = "https://todo.vercel.app/"
+baseURL = "https://faustozamparelliblog.vercel.app/"
 publishDir = 'public/blog'
 languageCode = 'en-us'
 title = 'faustozamparelli'
