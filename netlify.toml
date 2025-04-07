@@ -5,4 +5,4 @@ TZ = "Europe/Rome"
 
 [build]
 publish = "public"
-command = "hugo --gc --minify"
+command = "git submodule update --init --recursive && hugo --gc --minify"
