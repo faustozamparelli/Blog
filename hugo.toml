@@ -1,5 +1,5 @@
-baseURL = "https://faustozamparelliblog.vercel.app/blog"
-publishDir = 'public/blog'
+baseURL = "https://faustozamparelliblog.vercel.app"
+publishDir = 'public'
 languageCode = 'en-us'
 title = 'faustozamparelli'
 theme = 'github-style'
