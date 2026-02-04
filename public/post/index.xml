@@ -6,8 +6,22 @@
     <description>Recent content in Posts on faustozamparelli</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Sep 2024 20:20:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://faustozamparelliblog.vercel.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Should We Move Data and Computation to the Cloud, and When?</title>
+      <link>https://faustozamparelliblog.vercel.app/post/cloudcomputing/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0200</pubDate>
+      <guid>https://faustozamparelliblog.vercel.app/post/cloudcomputing/</guid>
+      <description>Boring Academic Essay Pt.2</description>
+    </item>
+    <item>
+      <title>Can Computers Think?</title>
+      <link>https://faustozamparelliblog.vercel.app/post/cancomputersthink/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0200</pubDate>
+      <guid>https://faustozamparelliblog.vercel.app/post/cancomputersthink/</guid>
+      <description>Boring Academic Essay Pt.1</description>
+    </item>
     <item>
       <title>Depressing</title>
       <link>https://faustozamparelliblog.vercel.app/post/depressing/</link>
