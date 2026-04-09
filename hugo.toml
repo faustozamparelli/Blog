@@ -17,6 +17,3 @@ theme = 'github-style'
   email = 'fausto.zamparelli@gmail.com'
   favicon = 'https://github.githubassets.com/favicons/favicon-dark.png'
 
-[services]
-  [services.googleAnalytics]
-    ID = 'G-MZ2X3WCL72'
